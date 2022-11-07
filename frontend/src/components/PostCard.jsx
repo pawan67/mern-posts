@@ -14,7 +14,7 @@ function PostCard({ post }) {
             />
           </div>
           <div className="space-y-2">
-            <a rel="noopener noreferrer" href="#" className="block">
+            <a rel="noopener noreferrer" href="/" className="block">
               <h3 className="text-xl font-semibold dark:text-violet-400">
                 {post.caption}
               </h3>
